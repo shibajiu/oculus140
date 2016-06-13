@@ -1,0 +1,8 @@
+Release/
+Debug/
+oculus5/Debug/
+oculus5/Release/
+*.sdf
+*.suo
+*.dll
+*.user
